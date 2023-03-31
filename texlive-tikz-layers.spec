@@ -1,6 +1,6 @@
 Name:		texlive-tikz-layers
 Version:	46660
-Release:	1
+Release:	2
 Summary:	TikZ provides graphical layers on TikZ: "behind", "above" and "glass"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-layers
